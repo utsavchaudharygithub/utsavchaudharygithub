@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on everything that gives me new skills
 - 📫 How to reach me ...through slack or email
 - chaudhary_utsav@yahoo.com
+-  My Linkedin profile is https://www.linkedin.com/in/utsav-chaudhary-b394152b/
 
 <!---
 utsavchaudharygithub/utsavchaudharygithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
