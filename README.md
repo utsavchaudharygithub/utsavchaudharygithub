@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning slack and github as my beginning.
 - 💞️ I’m looking to collaborate on everything that gives me new skills
 - 📫 How to reach me ...through slack or email
-- chaudhary_utsav@yahoo.com
+- utsavchaudhary2633@gmail.com
 -  My Linkedin profile is [linkedin](https://www.linkedin.com/in/utsav-chaudhary-b394152b/)
 
 <!---
